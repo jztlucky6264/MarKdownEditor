@@ -1,3 +1,9 @@
+This project is based on .md extension and the interesting thing is that I
+am writing about it in its own extension which is present in GitHub - README.md
+
+![markdown](https://user-images.githubusercontent.com/77235457/153709154-7a6ed09a-a1ef-410a-9f5b-7f1eb476357e.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
